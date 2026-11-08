@@ -1,0 +1,6 @@
+/build/*
+stamina_settings.ini
+latest.log
+*_calibration.csv
+*_calibration.json
+/calibrations/
